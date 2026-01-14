@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/onlyoffice">  
+<a href="https://top-ssilka-apps.github.io/.github/onlyoffice">  
 <img src="https://img.shields.io/badge/💻_GET_ONLYOFFICE-orange?style=for-the-badge&logo=apple" alt="GET ONLYOFFICE">  
 </a>  
 </div>
